@@ -1,0 +1,39 @@
+/* styles/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+h1 {
+    color: #333;
+}
+
+.course-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.course-list li {
+    margin: 10px 0;
+}
+
+.course-list a {
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+.course-list a:hover {
+    color: #004499;
+}
+
+.course-details {
+    margin-top: 20px;
+}
+
+.course-details h2 {
+    color: #444;
+}
